@@ -1,0 +1,14 @@
+{
+  "include": [ "./src/**/*" ],
+  "compilerOptions": {
+    "module": "es6",
+    "strict": true,
+    "target": "es5",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "experimentalDecorators": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
